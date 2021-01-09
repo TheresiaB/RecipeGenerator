@@ -2,6 +2,10 @@
 This recipe generator was developed by a team of 7 students as part of the course "Business Process Innovation Lab" from the M.Sc. in Business Intelligence and Process Management. The application takes a list of ingredients as input, selects those that go well together, and returns suitable preparation modes for each of them. The presented result evolved within a period of 6 weeks. This project was inspired by the food2vec repository  https://github.com/altosaar/food2vec and is based on recipes from allrecipes.com derived via https://eightportions.com/datasets/Recipes/
 A generated recipe was tested in real life and could by enjoyed after using some creativity in the preparation phase. The ingredient selection can be an inspiration on what to combine. Happy testing and enjoy!
 
+<p align="center">
+  <img src="screenshot.png" width="350" alt="screenshot">
+</p>
+
 ### Prerequisites
 You must have pandas, numpy, gensim.models and sklearn.cluster and Flask (for API) installed.
 
